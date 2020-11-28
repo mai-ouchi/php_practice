@@ -31,3 +31,4 @@ for($i = $start; $i <= $end; $i++){
     echo $i;
   }
 }
+?>
